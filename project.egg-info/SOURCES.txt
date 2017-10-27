@@ -1,0 +1,16 @@
+setup.py
+crawlAutohomekoubei/__init__.py
+crawlAutohomekoubei/items.py
+crawlAutohomekoubei/middlewares.py
+crawlAutohomekoubei/pipelines.py
+crawlAutohomekoubei/settings.py
+crawlAutohomekoubei/test.py
+crawlAutohomekoubei/spiders/__init__.py
+crawlAutohomekoubei/spiders/spiderkoubei.py
+crawlAutohomekoubei/spiders/spiderkoubei_bak.py
+crawlAutohomekoubei/spiders/testspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
